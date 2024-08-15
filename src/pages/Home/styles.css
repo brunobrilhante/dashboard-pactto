@@ -1,0 +1,29 @@
+h1 {
+    color: white;
+}
+
+h3 {
+    color: white;
+}
+
+button {
+    background-color: #1dbaa5;
+    padding: 15px 15px;
+    font-size: 13px;
+    border: none;
+    border-radius: 20px 20px 20px 20px;
+    font-weight: bold;
+    
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;    
+    width: 100%;    
+    box-sizing: border-box;    
+}
+
+.text {
+    padding: 10px 0 50px 0;
+    color: #a6b6c5;
+}

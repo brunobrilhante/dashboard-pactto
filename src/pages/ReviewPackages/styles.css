@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    justify-content: end;    
+    width: 100%;    
+    box-sizing: border-box;    
+}
+
+#button1 {
+    background-color: gray;
+    color: black;
+    margin-left: 20px;
+    align-items: start;
+}

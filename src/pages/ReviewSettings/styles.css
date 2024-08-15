@@ -1,0 +1,51 @@
+.form {
+    width: 40vw;    
+    padding: 20px;    
+}
+
+.field {
+    margin-bottom: 15px;
+}
+
+.text {
+    width: 100%;
+    padding: 15px !important;
+    box-sizing: border-box;
+    margin: 10px 0 10px 0px;
+    background-color: #39393b;
+    border: none;
+}
+
+.checkbox {
+    margin-right: 10px;
+}
+
+button {
+    color: #fff;    
+    margin-left: 20px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: end;    
+    width: 100%;    
+    box-sizing: border-box;     
+}
+
+.buttonReset {
+    background-color: gray;
+    color: black;
+    margin-left: 20px;
+}
+
+label {
+    color: white;
+}
+
+.list {
+    margin-top: 40px;
+}
+
+.user {
+    margin-top: 40px;
+}

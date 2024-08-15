@@ -1,0 +1,10 @@
+p {
+    color: #5c5c5c;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between !important;    
+    width: 100%;    
+    box-sizing: border-box;    
+}
